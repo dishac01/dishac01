@@ -64,17 +64,11 @@ Windows • Linux
 
 ---
 
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dishac01\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 
-📧 [dishachaudhury01@gmail.com](mailto:dishachaudhury01@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/disha-chaudhury
+* [dishachaudhury01@gmail.com](mailto:dishachaudhury01@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/disha-chaudhury
+* TryHackMe: https://tryhackme.com/p/n0td1sh4
 
 ---
 
