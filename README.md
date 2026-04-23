@@ -65,7 +65,7 @@ Windows • Linux
 
 ## 📫 Connect with Me
 
-* [dishachaudhury01@gmail.com](mailto:dishachaudhury01@gmail.com)
+* Email: [dishachaudhury01@gmail.com](mailto:dishachaudhury01@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/disha-chaudhury
 * TryHackMe: https://tryhackme.com/p/n0td1sh4
 
