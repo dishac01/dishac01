@@ -1,28 +1,27 @@
 # Hi, I'm Disha Chaudhury 👋
 
-🔐 CEH-certified Cybersecurity Enthusiast
+🔐 CEH-certified aspiring Cybersecurity Professional
 🎓 BTech CSE (Cyber Security) @ SRM Institute of Science and Technology
 
 ---
 
 ## 💡 About Me
 
-I am a cybersecurity enthusiast with hands-on experience in **SOC operations, vulnerability assessment, and network security**.
-Currently working with **SIEM tools, endpoint monitoring, and real-time threat detection**, I am passionate about strengthening both **defensive (Blue Team)** and **offensive security skills**.
+I am an aspiring cybersecurity professional with hands-on experience in **SOC operations, vulnerability assessment, and network security**.
+I have worked with **SIEM platforms, endpoint detection tools, and real-world threat monitoring systems**, and I am passionate about strengthening both **blue team and offensive security skills**.
 
 ---
 
 ## 🛡️ Experience
 
-🔹 **SOC Analyst (L1 Intern)** – ITOrizin Technology Solutions Pvt Ltd
+🔹 **SOC Analyst Intern (L1)** – ITOrizin Technology Solutions Pvt Ltd
 
-* Performed alert triage and incident investigation
-* Worked with SIEM tools like **Securonix & Seceon**
-* Identified IOCs and analyzed security events
-
-🔹 **Cyber Security Domain Member** – WiCyS, SRMIST
-
-* Actively involved in cybersecurity learning and collaboration
+* Monitored and analyzed security alerts using **Securonix and Seceon SIEM platforms**
+* Investigated endpoint alerts using **CrowdStrike (XDR)**
+* Performed **alert triage and incident investigation**
+* Identified **Indicators of Compromise (IOCs)**
+* Managed and documented incidents using **Freshservice ticketing tool**
+* Escalated confirmed threats to senior analysts
 
 ---
 
@@ -32,13 +31,13 @@ Currently working with **SIEM tools, endpoint monitoring, and real-time threat d
 
 Nmap • Wireshark • Burp Suite • Metasploit • OWASP ZAP • SQLmap
 
-### 🧠 SOC & Monitoring
+### 🧠 SIEM & SOC
 
-SIEM (Securonix, Seceon) • Alert Monitoring • Incident Response • Log Analysis
+Securonix • Seceon • Log Analysis • Event Correlation • Alert Monitoring
 
 ### 🖥️ Endpoint & XDR
 
-CrowdStrike • Threat Detection • Endpoint Monitoring
+CrowdStrike • Threat Detection • Endpoint Monitoring • XDR Investigation
 
 ### 🌐 Networking
 
@@ -48,7 +47,7 @@ TCP/IP • OSI Model • DNS • HTTP/HTTPS • Subnetting
 
 Python • C • C++ • Java • SQL
 
-### 🖥️ OS
+### 🖥️ Operating Systems
 
 Windows • Linux
 
@@ -56,7 +55,7 @@ Windows • Linux
 
 ## 📜 Certifications
 
-* Certified Ethical Hacker (CEH v13)
+* Certified Ethical Hacker (CEH v13) – EC-Council
 * Blue Team Fundamentals – CyberWarFare Labs
 * Introduction to Cybersecurity – Cisco
 * Fundamentals of Cryptography – Infosys Springboard
@@ -71,18 +70,3 @@ Windows • Linux
 * TryHackMe: https://tryhackme.com/p/n0td1sh4
 
 ---
-
-<!--
-**dishac01/dishac01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
