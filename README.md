@@ -1,4 +1,4 @@
-# Hi, I'm Disha Chaudhury 👋
+# Hi, I'm Disha Chaudhury 
 
 🔐 CEH-certified aspiring Cybersecurity Professional
 🎓 BTech CSE (Cyber Security) @ SRM Institute of Science and Technology
